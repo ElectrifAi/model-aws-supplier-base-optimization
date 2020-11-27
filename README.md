@@ -8,3 +8,4 @@ Enhance your view of suppliers and pre-emptively design a Supplier Management St
 
 SKU: SKU: SUPLY-PS-PCM-AWS-001
 
+AWS SageMaker: https://aws.amazon.com/marketplace/pp/prodview-tv6j52un527w2
